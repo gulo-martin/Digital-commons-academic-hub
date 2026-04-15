@@ -1,7 +1,7 @@
 
 # Mzuni Notes Collection
 
-A comprehensive collection of notes and resources for the Mzuni project.
+A comprehensive collection of notes and resources for the Mzuni projects, research materials and thesis.
 
 ## Overview
 
