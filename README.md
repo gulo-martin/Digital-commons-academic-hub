@@ -1,9 +1,15 @@
-#  Mzuzu University Notes Collection
+<p align="center">
+  <img src="./asset.png" alt="Mzuzu University Banner" width="850"/>
+</p>
 
-![mzuzu university digital commones](./asset.png)
+<h1 align="center">Mzuzu University Notes Collection</h1>
 
-Welcome to the **Digital Commons** for Mzuzu University study materials and resources.  
-Empowering students through knowledge, collaboration, and open access.
+<p align="center">
+  Empowering students through knowledge, collaboration, and open access.
+</p>
+
+<p align="center">Welcome to the **Digital Commons** for Mzuzu University study materials and resources.  
+Empowering students through knowledge, collaboration, and open access.</p>
 
 ---
 
@@ -13,11 +19,23 @@ This collection is designed to make learning easier, more accessible, and collab
 
 ---
 
+
 ## 📂 What's Inside
 - 📝 **Lecture Notes** – Organized by course and semester  
 - 📑 **Past Exams & Solutions** – For practice and revision  
 - 📄 **Research Papers** – Student and faculty contributions  
 - 📎 **Assignments & Projects** – Shared for inspiration and guidance  
+
+---
+## 📂 Repository Structure
+```plaintext
+📁 assets/        → Images and banners
+📁 notes/         → Subject-specific notes
+📁 guides/        → Study guides and tutorials
+📁 references/    → Reference materials
+📄 README.md      → Project documentation
+
+```
 
 ---
 
@@ -27,16 +45,36 @@ All resources are free and open to the Mzuzu University community.
 
 ---
 
+## 🚀 Features
+- Modern, visual documentation
+- Easy navigation with banners and icons
+- Open access to notes and guides
+
+---
+
 ## Contribute
 Want to help fellow students?  
 Submit your notes, guides, or projects to expand the collection and support collaborative learning.
 
 ---
 
-## Visit & Contact
--  **Digital Commons Website**: [digitalcommons.website](https://test2-one-blush.vercel.app/)  
--  **Email Us**: martingulo@gmail.com 
+<p align="left">
+  <b>Visit:</b> <a href="https://test2-one-blush.vercel.app/">Digital Commons Website</a>  
+  <br/>
+  <b>Contact:</b> <a href="mailto:martingulo@gmail.com ">martingulo@gmail.com </a>  
+</p>
+
 
 ---
 
-*Empowering Students Through Knowledge*
+
+<p align="center"><i>Empowering Students Through Knowledge</i></p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-blue" alt="Contributions Badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status Badge"/>
+</p>
+
