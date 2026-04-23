@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./asset.png" alt="Mzuzu University Banner" width="850"/>
+  <img src="./assets/asset.png" alt="Mzuzu University Banner" width="850"/>
 </p>
 
 <h1 align="center">Mzuzu University Notes Collection</h1>
