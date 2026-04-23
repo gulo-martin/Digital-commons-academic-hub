@@ -1,5 +1,7 @@
 #  Mzuzu University Notes Collection
 
+![mzuzu university digital commones](./asset.png)
+
 Welcome to the **Digital Commons** for Mzuzu University study materials and resources.  
 Empowering students through knowledge, collaboration, and open access.
 
