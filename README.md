@@ -18,14 +18,6 @@ A curated repository of notes, study guides, and academic resources for Mzuzu Un
 This collection is designed to make learning easier, more accessible, and collaborative.
 
 ---
-
-
-## 📂 What's Inside
-- 📝 **Lecture Notes** – Organized by course and semester  
-- 📑 **Past Exams & Solutions** – For practice and revision  
-- 📄 **Research Papers** – Student and faculty contributions  
-- 📎 **Assignments & Projects** – Shared for inspiration and guidance  
-
 ---
 ## 📂 Repository Structure
 ```plaintext
@@ -39,13 +31,13 @@ This collection is designed to make learning easier, more accessible, and collab
 
 ---
 
-## 📥 How to Access
+##  How to Access
 Browse and download materials directly from the **Digital Commons** platform.  
 All resources are free and open to the Mzuzu University community.
 
 ---
 
-## 🚀 Features
+##  Features
 - Modern, visual documentation
 - Easy navigation with banners and icons
 - Open access to notes and guides
