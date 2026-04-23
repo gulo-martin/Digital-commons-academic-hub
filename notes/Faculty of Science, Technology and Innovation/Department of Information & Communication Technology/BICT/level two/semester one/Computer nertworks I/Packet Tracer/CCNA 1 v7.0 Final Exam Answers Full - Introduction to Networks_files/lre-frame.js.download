@@ -1,0 +1,21 @@
+var thisScript = document.currentScript;
+if(thisScript) {
+    var pubName = thisScript.getAttribute("pubname");
+    var widgetName = thisScript.getAttribute("widgetname");
+    var id = pubName + "_" + widgetName;
+
+    if(!window.top.document.getElementById(id)) {
+        var script = document.createElement('script');
+
+        // copy all attributes as is
+        for (var i = 0, n = thisScript.attributes.length; i < n; i++) {
+            var attribute = thisScript.attributes[i];
+            script.setAttribute(attribute.name, attribute.value);
+        }
+
+        // update ID and url
+        script.id = id;
+        script.src = thisScript.src.replace('/lre-frame.js', '/lre.js');
+        window.top.document.head.appendChild(script);
+    }
+}
