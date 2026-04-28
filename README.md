@@ -57,7 +57,7 @@ Refer to **SECURITY.md** for guidelines on reporting issues and maintaining repo
 ## 🌐 Connect
 
 - **Community Website**: [Digital commons website](https://test2-one-blush.vercel.app/)
-- **Email**: martingulo@gmail.com  
+- **Email**: martingulo28@gmail.com  
 
 ---
 
